@@ -1,4 +1,4 @@
-# OpenClaw 一键安装（Linux / macOS / Windows）
+# OpenClaw 一键安装（Linux / Mac / Windows）
 
 给小白用户的快速部署包：拉代码后运行脚本即可。
 
@@ -6,7 +6,7 @@
 
 - 安装快
 - 操作简单
-- 支持 Linux / macOS / Windows
+- 支持 Linux / Mac / Windows
 - 关键步骤有明确“用户需要手动做什么”预期
 
 ---
@@ -39,7 +39,7 @@ chmod +x install-linux.sh
 ./install-linux.sh
 ```
 
-### macOS
+### Mac
 
 ```bash
 chmod +x install-macos.sh
